@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_electric_bike_24.xml" value="0.2295" />
+        <entry key="app/src/main/res/drawable/ic_baseline_local_parking_24.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/ic_bike.xml" value="0.2295" />
+        <entry key="app/src/main/res/drawable/ic_geolocalisation.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_card_view.xml" value="0.10960144927536232" />
+        <entry key="app/src/main/res/layout/activity_favorite.xml" value="0.22392120361328127" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.1157253304707635" />
+        <entry key="app/src/main/res/layout/activity_station_adapter.xml" value="0.1082427536231884" />
+        <entry key="app/src/main/res/layout/cardview.xml" value="0.23996796538864357" />
+        <entry key="app/src/main/res/layout/favorite.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_favorite.xml" value="0.2941665207130322" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.1203125" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
